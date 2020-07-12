@@ -1,0 +1,5 @@
+------------------------------------------------------------
+4400
+
+Previous transactions: 
+Transaction Type: Withdrawal,		amount: 600

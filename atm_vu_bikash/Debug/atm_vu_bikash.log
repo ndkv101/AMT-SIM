@@ -1,0 +1,29 @@
+﻿  account.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.cpp(56,10): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.cpp(62,12): warning C4552: '-': result of expression not used
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.cpp(69,10): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.cpp(71,10): warning C4129: 'E': unrecognized character escape sequence
+  atm.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\atm.cpp(61,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\atm.cpp(104,11): warning C4101: 'accountPtr': unreferenced local variable
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\atm.cpp(281,9): warning C4101: 'a': unreferenced local variable
+  balanceinquiry.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  bankdatabase.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  card.cpp
+  deposit.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  main.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\main.cpp(34,10): warning C4129: '_': unrecognized character escape sequence
+  transaction.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  withdrawal.cpp
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\account.h(23,36): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\bankdatabase.cpp(37): warning C4715: 'BankDatabase::getAccount': not all control paths return a value
+C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\atm_vu_bikash\bankdatabase.cpp(51): warning C4715: 'BankDatabase::getCard': not all control paths return a value
+  atm_vu_bikash.vcxproj -> C:\Users\ndkv9\OneDrive\Desktop\atm_vu_bikash\Debug\atm_vu_bikash.exe
